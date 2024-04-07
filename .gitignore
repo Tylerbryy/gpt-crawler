@@ -7,6 +7,7 @@ apify_storage
 crawlee_storage
 storage
 .DS_Store
+.husky
 
 !package.json
 !package-lock.json

@@ -1,9 +1,9 @@
 import { Config } from "./src/config";
 
 export const defaultConfig: Config = {
-  url: "https://www.builder.io/c/docs/developers",
-  match: "https://www.builder.io/c/docs/**",
-  maxPagesToCrawl: 50,
-  outputFileName: "output.json",
-  maxTokens: 2000000,
+  url: "https://hcpcs.codes/",
+  match: "https://hcpcs.codes/**",
+  maxPagesToCrawl: 999999999999,
+  outputFileName: "hcpcs.codes_output1.json",
+  maxTokens: 999999999999,
 };
